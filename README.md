@@ -1,7 +1,7 @@
-- 👋 Hi, I’m pooja
+- 👋 Hi, I’m pooja.
 - 👀 I’m interested in coding and webdevelopment.
 - 🌱 I’m currently learning python-django fullstack web development.
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on web development projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: You can’t hum while holding your nose. Try it!
 
