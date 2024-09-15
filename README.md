@@ -1,7 +1,7 @@
 
-About Me
 
-👨‍💻 MSc in Computer Science | Aspiring Python Django Developer | Full-Stack Web Developer
+
+👩‍💻 MSc in Computer Science | Aspiring Python Django Developer | Full-Stack Web Developer
 
 I specialize in building dynamic, scalable web applications using Python, Django, and modern frontend technologies. Passionate about learning and applying new technologies, my focus areas include backend development.
 
@@ -13,12 +13,14 @@ I specialize in building dynamic, scalable web applications using Python, Django
 
 💡 Skills & Interests:
 - Full-stack web development
-- Python scripting and automation
+- Python scripting
+- Backend development
 
 
 📂 Featured Projects:
 - HelloWorld eLearning Platform: A full-featured eLearning site built with Django, allowing users to browse courses, manage subscriptions, and process payments.
 - LaModa | AttireVogue: An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend.
+-Bigmart:An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend.
 
 I enjoy collaborating with others and am always open to contributing to meaningful projects. Feel free to connect with me!
 
