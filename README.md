@@ -1,9 +1,27 @@
-- 👋 Hi, I’m pooja.
-- 👀 I’m interested in coding and webdevelopment.
-- 🌱 I’m currently learning python-django fullstack web development.
-- 💞️ I’m looking to collaborate on web development projects.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: You can’t hum while holding your nose. Try it!
+
+About Me
+
+👨‍💻 MSc in Computer Science | Aspiring Python Django Developer | Full-Stack Web Developer
+
+I specialize in building dynamic, scalable web applications using Python, Django, and modern frontend technologies. Passionate about learning and applying new technologies, my focus areas include backend development.
+
+🚀 Tech Stack:
+- Backend: Python, Django, Django REST Framework
+- Frontend: HTML5, CSS3, JavaScript, React
+- Databases: MySQL, SQLite
+
+
+💡 Skills & Interests:
+- Full-stack web development
+- Python scripting and automation
+
+
+📂 Featured Projects:
+- HelloWorld eLearning Platform: A full-featured eLearning site built with Django, allowing users to browse courses, manage subscriptions, and process payments.
+- LaModa | AttireVogue: An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend and React for frontend.
+
+I enjoy collaborating with others and am always open to contributing to meaningful projects. Feel free to connect with me!
+
 
 <!---
 p4ja/p4ja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
