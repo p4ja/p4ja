@@ -20,7 +20,7 @@ I specialize in building dynamic, scalable web applications using Python, Django
 📂 Featured Projects:
 - HelloWorld eLearning Platform: A full-featured eLearning site built with Django, allowing users to browse courses, manage subscriptions, and process payments.
 - LaModa | AttireVogue: An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend.
--Bigmart:An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend.
+- Bigmart:An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend.
 
 I enjoy collaborating with others and am always open to contributing to meaningful projects. Feel free to connect with me!
 
