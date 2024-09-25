@@ -23,6 +23,7 @@ I specialize in building dynamic, scalable web applications using Python, Django
 - HelloWorld eLearning Platform: A full-featured eLearning site built with Django, allowing users to browse courses, manage subscriptions, and process payments.
 - LaModa | AttireVogue: An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend.
 - Bigmart:An eCommerce platform with login, checkout, and cart functionalities, developed using Django for backend.
+- url_shortener: A URL shortener is a service that transforms long URLs into shorter links, making sharing easier and more user-friendly, especially on social media. The shortened link redirects to the original URL and often includes tracking features to monitor clicks.
 
 I enjoy collaborating with others and am always open to contributing to meaningful projects. Feel free to connect with me!
 
