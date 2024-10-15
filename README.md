@@ -5,7 +5,8 @@ I am Pooja
 
 👩‍💻 Aspiring Python Django Developer | Full-Stack Web Developer
 
-I specialize in building dynamic, scalable web applications using Python, Django, and modern frontend technologies. Passionate about learning and applying new technologies, my focus areas include backend development.
+🌱 I specialize in building dynamic, scalable web applications using Python, Django, and modern frontend technologies. 
+🛸  Passionate about learning and applying new technologies, my focus areas include backend development.
 
 🚀 Tech Stack:
 - Backend: Python, Django, Django REST Framework
