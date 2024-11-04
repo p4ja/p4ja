@@ -10,7 +10,7 @@ I am Pooja
 
 🚀 Tech Stack:
 - Backend: Python, Django, Django REST Framework
-- Frontend: HTML5, CSS3, JavaScript, React
+- Frontend: HTML5, CSS3, JavaScript(Basics), React(Basics)
 - Databases: MySQL, SQLite
 
 
