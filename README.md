@@ -1,7 +1,7 @@
 
 Hey there,
 
-I am Pooja , between i dont have glasses.
+I am Pooja , between i dont wear glasses.
 
 👩‍💻 Aspiring Python Django Developer | Full-Stack Web Developer
 
