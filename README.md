@@ -3,7 +3,7 @@ Hey there,
 
 I am Pooja , between i dont wear glasses.
 
-👩‍💻 Aspiring Python Django Developer | Full-Stack Web Developer
+👩‍💻 Aspiring junior software engineer | Building things with Python | Exploring ServiceNow | Always learning.
 
 🌱 I specialize in building dynamic, scalable web applications using Python, Django, and modern frontend technologies. 
 
@@ -13,12 +13,14 @@ I am Pooja , between i dont wear glasses.
 - Backend: Python, Django, Django REST Framework
 - Frontend: HTML5, CSS3, JavaScript(Basics), React(Basics)
 - Databases: MySQL, SQLite
+- Platforms: ServiceNow
 
 
 💡 Skills & Interests:
 - Full-stack web development
 - Python scripting
 - Backend development
+- ServiceNow
 
 
 📂 Featured Projects:
