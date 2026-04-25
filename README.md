@@ -3,7 +3,7 @@
 I'm a Junior Software Engineer with around 1 year of experience working on enterprise platforms and application projects.
 
 ## 👨‍💻 About Me
-- Experience working with the ServiceNow platform
+- Hands-on experience with the ServiceNow platform (7 months).
 - Trained in Python Full Stack Development
 - Interested in backend and platform development
 
@@ -11,7 +11,7 @@ I'm a Junior Software Engineer with around 1 year of experience working on enter
 - Python
 - Django
 - SQL
-- ServiceNow
+- ServiceNow(beginner)
 
 ## 📚 Currently Learning
 - ServiceNow platform development
